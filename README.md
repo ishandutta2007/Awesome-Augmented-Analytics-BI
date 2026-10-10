@@ -73,7 +73,7 @@ Welcome to the ultimate curated directory of **augmented analytics platforms**, 
 
 ## 🔓 Open-Source GitHub Projects
 
-*Sorted by GitHub Stars Count (Descending)* 🌟
+*Sorted by GitHub_Stars_Count (Descending)* 🌟
 
 - **[Grafana](https://github.com/grafana/grafana)** [![Stars](https://img.shields.io/github/stars/grafana/grafana?style=social&color=white)](https://github.com/grafana/grafana/stargazers)  
   **Operational monitoring and observability leader**, AGPL-3.0 licensed. **Default dashboard for Prometheus, InfluxDB, Elasticsearch, and dozens of time-series backends**. Massive plugin ecosystem, production-grade alerting, and large community. Strong for real-time KPI monitoring. Grafana Cloud free tier generous; paid from **$29/month**. 📈
@@ -82,7 +82,7 @@ Welcome to the ultimate curated directory of **augmented analytics platforms**, 
   **The most complete open-source BI platform**, Apache-2.0 licensed. **40+ chart types, full SQL editor, and broadest warehouse coverage** — native connectors for Snowflake, BigQuery, Databricks, Redshift, Postgres, MySQL, Trino, ClickHouse, and 40+ more via SQLAlchemy. Semantic layer built around datasets and reusable metrics. dbt manifest integration. Embedded SDK included free. Stateless web tier scales horizontally. The default open-source answer for Tableau-class dashboarding. 🚀
 
 - **[Metabase](https://github.com/metabase/metabase)** [![Stars](https://img.shields.io/github/stars/metabase/metabase?style=social&color=white)](https://github.com/metabase/metabase/stargazers)  
-  **Most popular business analytics tool by GitHub stars**, AGPL-3.0 licensed. **Single JAR file deployment** — `java -jar metabase.jar`. Visual query builder translates clicks into SQL for non-technical users. OSS static embedding free with "Powered by Metabase" badge; Pro Interactive Embedding unlocks white-label, RLS, and SSO. Best for teams where the people asking questions are not the people who write SQL. 🎯
+  **Most popular business analytics tool by GitHub_Stars**, AGPL-3.0 licensed. **Single JAR file deployment** — `java -jar metabase.jar`. Visual query builder translates clicks into SQL for non-technical users. OSS static embedding free with "Powered by Metabase" badge; Pro Interactive Embedding unlocks white-label, RLS, and SSO. Best for teams where the people asking questions are not the people who write SQL. 🎯
 
 - **[Redash](https://github.com/getredash/redash)** [![Stars](https://img.shields.io/github/stars/getredash/redash?style=social&color=white)](https://github.com/getredash/redash/stargazers)  
   **SQL-first query and dashboard tool**, BSD-2-Clause licensed. **Does one thing**: write SQL, render charts, pin to dashboards. Supports 35+ data sources. No visual query builder, no semantic layer. ⚠️ *Maintenance concern*: Databricks acquired Redash in 2020; development slowed. Choosing Redash in 2026 is a bet on a community fork or established legacy deployment. ⚠️
@@ -119,7 +119,7 @@ Contributions are welcome! Follow these steps to submit new augmented analytics 
 
 1. 🍴 **Fork** the repository.
 2. 📝 **Add/edit** entries in `README.md` maintaining table/list structure and formatting.
-3. 🔗 Include project title, official website/GitHub link, exact star badge, license, and brief description.
+3. 🔗 Include project title, official website/GitHub link, exact Stars_Badge, license, and brief description.
 4. 🚀 Submit a **Pull Request** with a descriptive summary of your changes.
 
 ---
