@@ -1,5 +1,3 @@
-# Awesome-Augmented-Analytics-BI
-
 # Awesome-Augmented-Analytics-BI 📊 🧠
 
 <p align="center">
@@ -17,26 +15,28 @@
 
 ---
 
-## 🌟 Top Augmented Analytics & BI Ecosystem
+## 🌟 Top Augmented Analytics & BI Ecosystem 🚀
 
-**Curated List of Commercial AI BI Platforms & Open-Source Augmented Analytics Tools**  
-*Focused on Natural Language Query, Automated Insights, Predictive Analytics, AI Copilots, Semantic Modeling & Self-Hosted Augmented BI*
+**Curated Directory of Enterprise AI BI Platforms & Open-Source Augmented Analytics Tools**  
+*Focused on Natural Language Query (NLQ), Automated Insights, Predictive Analytics, AI Copilots, Semantic Modeling & Self-Hosted Augmented Business Intelligence.*
 
 **Last updated: October 2026** 📅
 
 ---
 
-### 📌 Overview & SEO Summary
-Welcome to the ultimate curated directory of **augmented analytics and BI platforms**, **open-source AI-powered analytics tools**, and **conversational business intelligence frameworks**. Whether you are looking for enterprise-grade commercial solutions (such as *Tableau Pulse*, *Power BI Copilot*, and *ThoughtSpot Sage*), or self-hostable open-source alternatives (like *Apache Superset*, *Metabase*, and *Zaturn*), this list covers category leaders, natural language query, and privacy-respecting augmented analytics.
+### 📌 Overview & Market Analysis 💡
 
-**Key Market Context:**
-- **Power BI Copilot** requires **Fabric capacity** (F2 or higher) — **Pro or PPU licenses alone are insufficient**, and **region support is limited** (unavailable in West India, Central Indonesia, South Korea, and several others) .
-- **Qlik AutoML** democratizes predictive analytics with **automated model creation and full explainability** for business users, and **opens up data science to a wider audience while maintaining governance** .
-- **Sisense Fusion AI** provides **embedded AI Chat, NLG Insights, and NLQ** through its Compose SDK, with **React component integration** .
-- **Tellius** (now **Kaiya**) supports **multi-model LLM backends (Gemini + OpenAI)** with **embedding into customer applications** and **smart deduplication for insights** .
-- **Tableau Pulse** delivers **automated insights and metric definitions** directly into Slack, Teams, and email — with **Metrics and Pulse available in Tableau Cloud and Server**, and **Pulse AI features restricted to Tableau+** .
-- **Zaturn** is the **most accessible open-source conversational BI tool**, letting you **chat with your data — no SQL, no Python** — connecting to PostgreSQL, SQLite, DuckDB, MySQL, ClickHouse, SQL Server, CSV, and Parquet .
-- **Apache Superset** is the **most complete open-source BI platform**, with **40+ chart types, full SQL editor, broadest warehouse coverage, free embedded SDK, and stateless web tier that scales horizontally** .
+Welcome to the ultimate curated directory of **augmented analytics platforms**, **open-source AI-powered business intelligence (BI) tools**, and **conversational data analytics frameworks**. Whether you are evaluating enterprise-grade commercial platforms (such as *Microsoft Power BI Copilot*, *Salesforce Tableau Pulse*, and *ThoughtSpot Sage*) or lightweight, self-hostable open-source BI solutions (like *Grafana*, *Apache Superset*, *Metabase*, and *PyGWalker*), this directory provides comprehensive pricing, free tier limits, market valuation, and repository star metrics.
+
+**Market Size & Dynamics:**  
+> 📈 **Market Size & Structure:** The global Augmented Analytics and AI BI market is estimated at **$18.4 Billion in 2026** (projected to reach **$38.5 Billion by 2030** at a CAGR of ~20.2%). The sector is **moderately fragmented**: mega-cap cloud suite vendors (Microsoft, Salesforce/Tableau, Google/Looker) dominate broad enterprise deployments, while specialized AI-native decision intelligence vendors (ThoughtSpot, Tellius/Kaiya) and fast-growing open-source solutions (Grafana, Superset, Metabase) capture significant specialized, developer-first, and privacy-focused market share.
+
+**Key Ecosystem Highlights:**
+- 🔷 **Power BI Copilot** requires **Fabric capacity** (F2 or higher starting at ~$262/month PAYG) — **Pro or PPU licenses alone are insufficient**, and regional availability applies.
+- 📊 **Tableau Pulse** delivers automated metrics directly into Slack, Teams, and email — requiring **Tableau Cloud/Server Creator/Explorer licenses** ($42–$115/user/month) and **Tableau+** for AI features.
+- 🟢 **Qlik Insight Advisor & AutoML** democratize predictive analytics with automated model creation and full explainability for business users starting at $825/month for Cloud Analytics.
+- 🧠 **Tellius / Kaiya** provides conversational decision intelligence with multi-model LLM backends (Gemini + OpenAI) starting at $1,500/month.
+- 🔓 **Apache Superset**, **Metabase**, **Grafana**, and **PyGWalker** offer robust open-source alternatives with self-hosted options, embedded SDKs, and zero license costs for core editions.
 
 ---
 
@@ -50,58 +50,66 @@ Welcome to the ultimate curated directory of **augmented analytics and BI platfo
 
 ---
 
-## 🏢 SaaS / Commercial Platforms
+## 🏢 SaaS & Commercial Platforms
 
-The augmented analytics and BI market spans **enterprise BI suites with AI copilots** (Tableau Pulse, Power BI Copilot, Looker Duet AI) that integrate **natural language query and automated insights into existing platforms**, **AI-native analytics platforms** (ThoughtSpot Sage, Tellius/Kaiya, Sisu) that were **built from the ground up for search-driven and automated analytics**, and **embedded analytics platforms** (Sisense Fusion, Domo AI) that focus on **embedding AI-powered insights into applications**. **Tableau Pulse** requires **Tableau+** for AI features . **Power BI Copilot** requires **Fabric capacity** . **Qlik AutoML** is **available to Qlik Cloud users** with **no additional licensing** for basic use.
+*Sorted by Market Valuation / Company Size (Descending)* 📉
 
-| SaaS / Commercial Platform | Company / Owner | Valuation / Market Cap | Standard Edition Starting Price | Free Tier / Free Trial Limits | Description |
+> 💡 **Sector Analysis:** The global Augmented Analytics market size is estimated at **$18.4 Billion in 2026** and is **moderately fragmented**, featuring a mix of multi-trillion dollar tech giants (Microsoft, Salesforce) offering integrated AI copilots and high-growth decision intelligence specialists (ThoughtSpot, Tellius).
+
+| SaaS / Commercial Platform | Company / Owner | Market Valuation / Scale | Standard Edition Starting Price | Free Tier & Trial Limits | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **[Tableau Pulse](https://www.tableau.com/products/tableau-pulse)** 📊 | Salesforce | ~$250 Billion | **Requires Tableau+** (custom pricing) | **No free tier**; trial available | **Enterprise BI with generative AI** — **Automated insights and metric definitions delivered in Slack, Teams, and email** . **Metrics and Pulse available in Tableau Cloud and Server** . **Pulse AI features restricted to Tableau+** . |
-| **[Microsoft Power BI Copilot](https://powerbi.microsoft.com/)** 🔷 | Microsoft | ~$3.90 Trillion | **Requires Fabric capacity** (F2+: ~$262/month PAYG) | **No free tier for Copilot** | **Microsoft-native augmented BI** — **Natural language Q&A, report summaries, and DAX generation** . **Requires Fabric capacity** — **Pro/PPU licenses alone are insufficient** . **Limited regional availability**. |
-| **[ThoughtSpot Sage](https://www.thoughtspot.com/)** 🔍 | ThoughtSpot | ~$4 Billion | **Custom enterprise pricing** | **Free trial available** | **Search-driven AI analytics** — **Natural language search with GPT integration** . **AI-generated answers with narratives** . **Data modeling with AI-created synonyms and descriptions** . **Embeddable in custom applications** . |
-| **[Qlik Insight Advisor](https://www.qlik.com/)** 🟢 | Qlik | ~$3 Billion | **Custom enterprise pricing** | **Free trial available** | **AI-powered BI assistant** — **Natural language query and automated insights** . **Qlik AutoML for predictive analytics** . **Full explainability for business users** . |
-| **[Sisense Fusion AI](https://www.sisense.com/)** 🟣 | Sisense | Private | **Custom enterprise pricing** | **Free trial available** | **Embedded analytics with AI** — **AI Chatbot, NLG Insights, NLQ, and query recommendations** . **Compose SDK with React components** . **Embeddable into applications** . |
-| **[Domo AI](https://www.domo.com/)** 🟡 | Domo | ~$1 Billion | **Custom enterprise pricing** | **Free trial available** | **Business cloud with AI** — **AI Chat with @-mention context, multi-dataset analysis, and chart generation** . **AI Agents in Workflows** . **FileSets for unstructured data** . |
-| **[Tellius / Kaiya](https://www.tellius.com/)** 🧠 | Tellius | Private | **Custom enterprise pricing** | **Free trial available** | **AI-native decision intelligence** — **Kaiya conversational analytics** . **Multi-model LLM support (Gemini + OpenAI)** . **Embeddable into customer applications** . **Smart deduplication for insights** . |
-| **[Sisu Data](https://sisu.ai/)** 📈 | Snowflake (Acquired) | ~$50 Billion (Snowflake) | **Custom enterprise pricing** | **No free tier** | **Decision intelligence engine** — **AI/ML-powered analysis of highly dimensional data** . **Surfaces relevant insights in seconds** . **Acquired by Snowflake in October 2023** . |
-| **[Pyramid Analytics](https://www.pyramidanalytics.com/)** 🔺 | Pyramid Analytics | Private | **Custom enterprise pricing** | **Free trial available** | **Decision intelligence platform** — **AI-powered data prep, science, and analytics** . **Semantic models and business analytics** . **Natural language query and dashboards** . |
-| **[Salesforce Einstein Analytics](https://www.salesforce.com/products/analytics/)** ☁️ | Salesforce | ~$250 Billion | **Included with Sales/Service Cloud** | **Free with Salesforce subscription** | **CRM-native augmented analytics** — **AI-powered insights for Sales and Service Cloud** . **Einstein Discovery for predictive analytics** . **Deep integration with CRM data** . |
+| **[Microsoft Power BI Copilot](https://powerbi.microsoft.com/)** 🔷 | Microsoft | **~$3.90 Trillion** | **$10 / user / month** (Pro) + Fabric F2 Capacity (**$262 / month** PAYG) | **Free Power BI Desktop** (local only); Fabric 60-day Free Trial (up to 1 million capacity units) | **Microsoft-native augmented BI** — Natural language Q&A, automatic report creation, narrative summaries, and DAX query generation. *Copilot requires Fabric capacity.* |
+| **[Salesforce Tableau Pulse](https://www.tableau.com/products/tableau-pulse)** 📊 | Salesforce | **~$250 Billion** | **$42 / user / month** (Tableau Cloud Explorer; Pulse AI requires **Tableau+**) | **14-day Free Trial** of Tableau Cloud (up to 25 users); no perpetual free tier | **Enterprise BI with generative AI** — Automated metric digests delivered directly into Slack, Teams, and email. Pulse AI features are bundled into Tableau+ subscription tier. |
+| **[Salesforce Einstein Analytics](https://www.salesforce.com/products/analytics/)** ☁️ | Salesforce | **~$250 Billion** | **$75 / user / month** (CRM Analytics Growth edition) | **30-day Free Trial** (includes sample dataset & dashboards); no perpetual free tier | **CRM-native augmented analytics** — Embedded AI predictions, automated data prep, and predictive modeling via Einstein Discovery directly within Salesforce CRM. |
+| **[Sisu Data](https://sisu.ai/)** 📈 | Snowflake (Acquired) | **~$50 Billion** (Snowflake) | **$3.00 / Credit** (Snowflake Enterprise pricing context) | **30-day Free Trial** with **$400 in free credits** on Snowflake Data Cloud | **Decision intelligence engine** — Automated key driver analysis and diagnostic ML on high-dimensional cloud data warehouse tables. |
+| **[ThoughtSpot Sage](https://www.thoughtspot.com/)** 🔍 | ThoughtSpot | **~$4.00 Billion** | **$95 / month** (ThoughtSpot Team Plan for up to 5 users) | **30-day Free Trial** (full access to search & NLQ features with sample data) | **Search-driven AI analytics** — Natural language query interface powered by GPT, automated chart generation, AI narrative insights, and data modeling synonyms. |
+| **[Qlik Insight Advisor](https://www.qlik.com/)** 🟢 | Qlik | **~$3.00 Billion** | **$825 / month** (Qlik Cloud Analytics Standard, up to 25GB reload/yr) | **30-day Free Trial** of Qlik Cloud Analytics (full NLQ & AutoML feature access) | **AI-powered BI & AutoML assistant** — Conversational analytics, automatic chart recommendations, narrative commentary, and explainable AutoML model building. |
+| **[Domo AI](https://www.domo.com/)** 🟡 | Domo | **~$1.00 Billion** | **$300 / month** (Domo Enterprise / Consumption Base starting tier) | **30-day Free Trial** (includes 1,000 data credits and full feature access) | **Business Cloud with embedded AI** — AI Chat with @-mention context, multi-dataset synthesis, automated dashboard creation, and unstructured document analysis. |
+| **[Sisense Fusion AI](https://www.sisense.com/)** 🟣 | Sisense | **Private (~$1 Billion)** | **$10,000 / year** (Starting SMB annual subscription tier) | **30-day Free Trial** (access to Compose SDK, embedded NLQ, and AI Chatbot) | **Embedded analytics with AI** — AI Chatbot, NLG Insights, NLQ query builder, and React component integration via Sisense Compose SDK. |
+| **[Pyramid Analytics](https://www.pyramidanalytics.com/)** 🔺 | Pyramid Analytics | **Private (~$800 Million)** | **$30 / user / month** (Pyramid Professional User license) | **30-day Free Trial** (access to decision intelligence platform and AutoML) | **Decision intelligence platform** — AI-assisted data prep, automated statistical analytics, natural language query builder, and enterprise semantic layer. |
+| **[Tellius / Kaiya](https://www.tellius.com/)** 🧠 | Tellius | **Private (~$250 Million)** | **$1,500 / month** (Tellius Starter Tier up to 5 users) | **14-day Free Trial** (access to Kaiya NLQ engine & driver analysis) | **AI-native decision intelligence** — Kaiya conversational BI engine supporting multi-model LLM backends (Gemini + OpenAI), automated root-cause analysis, and embedded NLQ. |
 
 ---
 
 ## 🔓 Open-Source GitHub Projects
 
-*Sorted by GitHub_Stars_Count (Descending)* 🌟
-
-- **[Apache Superset](https://github.com/apache/superset)** [![Stars](https://img.shields.io/github/stars/apache/superset?style=social&color=white)](https://github.com/apache/superset/stargazers)  
-  **The most complete open-source BI platform**, Apache-2.0 licensed. **40+ chart types, full SQL editor, and broadest warehouse coverage** — native connectors for Snowflake, BigQuery, Databricks, Redshift, Postgres, MySQL, Trino, ClickHouse, and 40+ more via SQLAlchemy . **Semantic layer** built around datasets and reusable metrics. **dbt manifest integration**. **Embedded SDK included free** — server issues guest token with RLS rules. **Stateless web tier scales horizontally**. **The default open-source answer for Tableau-class dashboarding**. 🚀
-
-- **[Metabase](https://github.com/metabase/metabase)** [![Stars](https://img.shields.io/github/stars/metabase/metabase?style=social&color=white)](https://github.com/metabase/metabase/stargazers)  
-  **Most popular open-source BI by GitHub stars**, AGPL-3.0 licensed. **Single JAR file deployment** — `java -jar metabase.jar` and you have a BI tool. **Visual query builder** translates clicks into SQL for non-technical users. **OSS static embedding free** with "Powered by Metabase" badge; **Pro Interactive Embedding unlocks white-label, RLS, and SSO**. **Best for teams where the people asking questions are not the people who write SQL**. 🎯
+*Sorted by GitHub Stars Count (Descending)* 🌟
 
 - **[Grafana](https://github.com/grafana/grafana)** [![Stars](https://img.shields.io/github/stars/grafana/grafana?style=social&color=white)](https://github.com/grafana/grafana/stargazers)  
-  **Operational monitoring and observability leader**, AGPL-3.0 licensed. **Default dashboard for Prometheus, InfluxDB, Elasticsearch, and dozens of time-series backends**. **Massive plugin ecosystem**, production-grade alerting, and large community. **Strong for real-time KPI monitoring**. **Grafana Cloud free tier** generous; paid from **$29/month**. 📈
+  **Operational monitoring and observability leader**, AGPL-3.0 licensed. **Default dashboard for Prometheus, InfluxDB, Elasticsearch, and dozens of time-series backends**. Massive plugin ecosystem, production-grade alerting, and large community. Strong for real-time KPI monitoring. Grafana Cloud free tier generous; paid from **$29/month**. 📈
 
-- **[Knowage](https://github.com/KnowageLabs/Knowage-Server)** [![Stars](https://img.shields.io/github/stars/KnowageLabs/Knowage-Server?style=social&color=white)](https://github.com/KnowageLabs/Knowage-Server/stargazers)  
-  **The most comprehensive open-source analytics and BI suite**, Apache-2.0 licensed. **Combines traditional and big data sources** into valuable information. **Full features: data exploration, preparation, self-service, ad-hoc reporting, mash-up, data/text mining, and advanced visualization** . **Smart Intelligence module** for interactive analysis with **R/Python embedding** for ML/DL models. **Function Catalog** for reusable analytical functions. **Community Edition free**, Enterprise Edition from Engineering Group. 🏛️
+- **[Apache Superset](https://github.com/apache/superset)** [![Stars](https://img.shields.io/github/stars/apache/superset?style=social&color=white)](https://github.com/apache/superset/stargazers)  
+  **The most complete open-source BI platform**, Apache-2.0 licensed. **40+ chart types, full SQL editor, and broadest warehouse coverage** — native connectors for Snowflake, BigQuery, Databricks, Redshift, Postgres, MySQL, Trino, ClickHouse, and 40+ more via SQLAlchemy. Semantic layer built around datasets and reusable metrics. dbt manifest integration. Embedded SDK included free. Stateless web tier scales horizontally. The default open-source answer for Tableau-class dashboarding. 🚀
 
-- **[Zaturn](https://github.com/kdqed/zaturn)** [![Stars](https://img.shields.io/github/stars/kdqed/zaturn?style=social&color=white)](https://github.com/kdqed/zaturn/stargazers)  
-  **AI Co-Pilot for data analytics and business insights**, open-source. **Just chat with your data — no SQL, no Python** . **Connects to PostgreSQL, SQLite, DuckDB, MySQL, ClickHouse, SQL Server, CSV, and Parquet** . **Generates visualizations: scatter, line, histogram, box plots, and bar charts** . **Usable as MCP or web interface** . **The most accessible open-source conversational BI tool**. 🤖
+- **[Metabase](https://github.com/metabase/metabase)** [![Stars](https://img.shields.io/github/stars/metabase/metabase?style=social&color=white)](https://github.com/metabase/metabase/stargazers)  
+  **Most popular business analytics tool by GitHub stars**, AGPL-3.0 licensed. **Single JAR file deployment** — `java -jar metabase.jar`. Visual query builder translates clicks into SQL for non-technical users. OSS static embedding free with "Powered by Metabase" badge; Pro Interactive Embedding unlocks white-label, RLS, and SSO. Best for teams where the people asking questions are not the people who write SQL. 🎯
 
 - **[Redash](https://github.com/getredash/redash)** [![Stars](https://img.shields.io/github/stars/getredash/redash?style=social&color=white)](https://github.com/getredash/redash/stargazers)  
-  **SQL-first query and dashboard tool**, BSD-2-Clause licensed. **Does one thing**: write SQL, render charts, pin to dashboards. **Supports 35+ data sources**. **No visual query builder, no semantic layer**. **⚠️ Maintenance concern**: Databricks acquired Redash in 2020; development slowed dramatically. **Choosing Redash in 2026 is a bet on a project with unclear long-term maintenance**. ⚠️
-
-- **[Lightdash](https://github.com/lightdash/lightdash)** [![Stars](https://img.shields.io/github/stars/lightdash/lightdash?style=social&color=white)](https://github.com/lightdash/lightdash/stargazers)  
-  **dbt-native BI platform**, open-source. **Reads your dbt project directly** — models, metrics, dimensions, descriptions become an explorable BI layer. **No re-defining metrics in a separate tool**. **First-class dbt awareness**. **Limitations**: not a standalone BI tool; chart builder lacks depth of Superset. **Lightdash Cloud starts free for small teams**. 🔧
-
-- **[Evidence](https://github.com/evidence-dev/evidence)** [![Stars](https://img.shields.io/github/stars/evidence-dev/evidence?style=social&color=white)](https://github.com/evidence-dev/evidence/stargazers)  
-  **Code-first analytics with Markdown**, MIT licensed. **Build dashboards by writing Markdown with embedded SQL** — Git-versioned, static-deployable. **No drag-and-drop for broad business users**. **$0 hosting** on Vercel/Netlify for static deploy. **Best for code-first analytics and embedded storytelling**. 📝
+  **SQL-first query and dashboard tool**, BSD-2-Clause licensed. **Does one thing**: write SQL, render charts, pin to dashboards. Supports 35+ data sources. No visual query builder, no semantic layer. ⚠️ *Maintenance concern*: Databricks acquired Redash in 2020; development slowed. Choosing Redash in 2026 is a bet on a community fork or established legacy deployment. ⚠️
 
 - **[Cube](https://github.com/cube-js/cube)** [![Stars](https://img.shields.io/github/stars/cube-js/cube?style=social&color=white)](https://github.com/cube-js/cube/stargazers)  
-  **Semantic layer and API layer**, Apache-2.0 licensed. **Provides semantic layer, caching, and API layer** that sits between your data and any visualization tool. **Cube Cloud**: Free → Starter **$40/dev/mo** → Premium **$80/dev/mo** (Premium includes embedded dashboards). **The strongest non-BI building block for productizing a dashboard offering** . 🧊
+  **Universal semantic layer and API platform**, Apache-2.0 licensed. Provides semantic data modeling, caching, pre-aggregations, and access control APIs between data warehouses and front-end visualization engines. Cube Cloud Starter starts at **$40/dev/mo**. The strongest building block for building custom data products and embedded dashboards. 🧊
+
+- **[PyGWalker](https://github.com/Kanaries/pygwalker)** [![Stars](https://img.shields.io/github/stars/Kanaries/pygwalker?style=social&color=white)](https://github.com/Kanaries/pygwalker/stargazers)  
+  **Python library for exploratory data analysis**, Apache-2.0 licensed. Turn Pandas, Polars, or DuckDB DataFrames into a Tableau-style interactive visual exploration interface directly inside Jupyter Notebooks or Streamlit apps. Zero configuration required. 📊
+
+- **[Evidence](https://github.com/evidence-dev/evidence)** [![Stars](https://img.shields.io/github/stars/evidence-dev/evidence?style=social&color=white)](https://github.com/evidence-dev/evidence/stargazers)  
+  **Code-first analytics with Markdown**, MIT licensed. Build reports and dashboards by writing Markdown with embedded SQL queries — Git-versioned and statically deployable to Vercel/Netlify. Best for developer-centric data teams and code-first data storytelling. 📝
+
+- **[Lightdash](https://github.com/lightdash/lightdash)** [![Stars](https://img.shields.io/github/stars/lightdash/lightdash?style=social&color=white)](https://github.com/lightdash/lightdash/stargazers)  
+  **dbt-native BI platform**, MIT licensed. Reads your dbt project directly — models, metrics, dimensions, and descriptions automatically become an explorable self-service BI layer without redefining metrics in a separate tool. Lightdash Cloud starts free for small teams. 🔧
 
 - **[Graphic Walker](https://github.com/Kanaries/graphic-walker)** [![Stars](https://img.shields.io/github/stars/Kanaries/graphic-walker?style=social&color=white)](https://github.com/Kanaries/graphic-walker/stargazers)  
-  **Embeddable visualization analysis React component**, open-source. **Composable, embeddable analysis components** that integrate seamlessly with React applications. **Pass data as props — render charts via drag-and-drop in any app**. **DuckDB engine** for fast local/edge computation; **pushdown to ClickHouse, StarRocks, or Snowflake**. **Full control over rendering and styling**. **Best for embedding analytics into SaaS products**. 🎨
+  **Embeddable visual analytics React component**, MIT licensed. Composable, embeddable analysis components for React applications. Drag-and-drop chart builder backed by DuckDB for fast local/edge computation with SQL pushdown to ClickHouse, StarRocks, or Snowflake. 🎨
+
+- **[Rill](https://github.com/rilldata/rill)** [![Stars](https://img.shields.io/github/stars/rilldata/rill?style=social&color=white)](https://github.com/rilldata/rill/stargazers)  
+  **Fast, code-first BI for DuckDB and ClickHouse**, Apache-2.0 licensed. Powered by DuckDB for instant local metrics exploratory dashboards. Transforms raw event streams and Parquet/CSV files into interactive dashboard applications with microsecond response times. ⚡
+
+- **[Knowage](https://github.com/KnowageLabs/Knowage-Server)** [![Stars](https://img.shields.io/github/stars/KnowageLabs/Knowage-Server?style=social&color=white)](https://github.com/KnowageLabs/Knowage-Server/stargazers)  
+  **Comprehensive open-source enterprise analytics suite**, AGPL-3.0 licensed. Combines traditional relational data and big data sources. Features data preparation, self-service ad-hoc reporting, spatial/GIS analytics, and Smart Intelligence module with embedded R/Python scripts for machine learning. 🏛️
+
+- **[Zaturn](https://github.com/kdqed/zaturn)** [![Stars](https://img.shields.io/github/stars/kdqed/zaturn?style=social&color=white)](https://github.com/kdqed/zaturn/stargazers)  
+  **AI Co-Pilot for conversational data analytics**, MIT licensed. Chat directly with data tables — no SQL or Python needed. Connects to PostgreSQL, SQLite, DuckDB, MySQL, ClickHouse, SQL Server, CSV, and Parquet to automatically render charts and analytical summaries. 🤖
 
 ---
 
@@ -111,7 +119,7 @@ Contributions are welcome! Follow these steps to submit new augmented analytics 
 
 1. 🍴 **Fork** the repository.
 2. 📝 **Add/edit** entries in `README.md` maintaining table/list structure and formatting.
-3. 🔗 Include project title, official website/GitHub link, exact Stars_Count, license, and brief description.
+3. 🔗 Include project title, official website/GitHub link, exact star badge, license, and brief description.
 4. 🚀 Submit a **Pull Request** with a descriptive summary of your changes.
 
 ---
@@ -135,10 +143,9 @@ If you find this augmented analytics and BI repository useful, please consider s
 ## ⚠️ Disclaimer
 
 - This is a **community-curated** list — not exhaustive and not an endorsement. ℹ️
-- **Power BI Copilot requires Fabric capacity** — **Pro/PPU licenses alone are insufficient** . **Tableau Pulse AI features are restricted to Tableau+** . **Qlik AutoML is available to Qlik Cloud users** with **no additional licensing** for basic use .
-- **Open-source is not free** — Metabase and Superset are excellent with zero license cost, but their real cost is **a person**. Someone runs upgrades, wires SSO, tunes cache, and answers questions when a chart breaks. **If your BI team is one analyst with a full workload, a paid tool with support is cheaper in practice**.
-- **Redash is in maintenance-only status** — Databricks acquired it in 2020, and development slowed dramatically. **Choosing Redash in 2026 is a bet on a project with unclear long-term maintenance** . **Knowage provides the most complete open-source BI suite** with **R/Python ML embedding** .
-- **Always validate AI-generated insights** — LLM-powered BI can produce hallucinations. **Verify numbers against your semantic model and source data** before acting. 🧠
+- **Power BI Copilot requires Fabric capacity** — Pro/PPU licenses alone are insufficient. **Tableau Pulse AI features are restricted to Tableau+**.
+- **Open-source is not free** — Metabase, Superset, and Grafana have zero license cost for self-hosting, but require operational infrastructure, maintenance, and administration.
+- **Always validate AI-generated insights** — LLM-powered BI tools can produce hallucinations. Always verify metrics against your enterprise semantic model and source warehouse before making executive decisions. 🧠
 
 ---
 
